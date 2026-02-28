@@ -1,0 +1,6 @@
+# Ignore Windows executables
+*.exe
+*.msi
+
+# Ignore Mac/Linux executables
+*.out
