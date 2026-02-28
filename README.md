@@ -1,1 +1,1 @@
-The second calculator (the Javascript one) REQUIRES Node.JS. The first calculator requires Python installed, and the third calculator should run just fine.
+The second calculator (the Javascript one) REQUIRES Node.JS. The first calculator requires Python installed, and the third calculator should run just fine. The fourth calculator, which is C++, requires EXE compiling on your computer. Same for the fifth calculator.
